@@ -4,7 +4,7 @@
 **Centos/Ubuntu/Debian安装命令**
 
 ```
-curl -sSO https://raw.githubusercontent.com/sunpma/bt-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://raw.githubusercontent.com/jzqxx/bt-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
 # 手动破解：
